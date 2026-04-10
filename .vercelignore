@@ -1,0 +1,12 @@
+node_modules
+.git
+.env
+.env.local
+*.log
+.DS_Store
+README.md
+DEPLOYMENT.md
+FILE_MANIFEST.md
+PORTFOLIO_COMPLETE.md
+QUICK_START.md
+START_HERE.md
